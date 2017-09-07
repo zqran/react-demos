@@ -1,3 +1,5 @@
+**注意：这是React ES5的使用方式**
+
 This is a collection of simple demos of React.js.
 
 These demos are purposely written in a simple and clear style. You will find no difficulty in following them to learn the powerful library.
